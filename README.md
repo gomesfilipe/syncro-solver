@@ -12,8 +12,8 @@ The script ``run_template.py`` creates a json file that contains the basic struc
 
 Example in command line:
 
-```
-python3 run_template.py --name PHASE_NAME --path DIR_TO_SAVE
+```bash
+> python3 run_template.py --name PHASE_NAME --path DIR_TO_SAVE
 ```
 
 Use ``-h`` flag to read more details of command.
@@ -24,8 +24,8 @@ Once you've created your phase, just use ``run_solve.py`` script.
 
 Example in command line:
 
-```
-python3 run_solve.py --outdir OUTPUT_DIR --indir PHASE_DIR --filename PHASE_FILENAME --all True
+```bash
+> python3 run_solve.py --outdir OUTPUT_DIR --indir PHASE_DIR --filename PHASE_FILENAME --all True
 ```
 
 Use ``-h`` flag to read more details of command.
