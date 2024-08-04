@@ -1,6 +1,6 @@
 # Syncro
 
-Syncro is a mathematical game developed by <a href="https://www.youtube.com/@MathGurl" >MathGurl</a>. Its objective is to solve puzzles based in Automata Theory, as explained in this <a href="https://www.youtube.com/watch?v=iXgm0qmP3cw&ab_channel=MathGurl">vídeo</a>.
+<a href="https://rawegg.itch.io/syncro">Syncro</a> is a mathematical game developed by <a href="https://www.youtube.com/@MathGurl" >MathGurl</a>. Its objective is to solve puzzles based in Automata Theory, as explained in this <a href="https://www.youtube.com/watch?v=iXgm0qmP3cw&ab_channel=MathGurl">vídeo</a>.
 
 This repository can solve all phases of game using a recursive bruteforce algorithm. The automatas used in Syncro are in ``/phases`` directory and its answers are in ``/solutions`` directory.
 
