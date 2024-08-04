@@ -4,9 +4,11 @@
 
 This repository can solve all phases of game using a recursive bruteforce algorithm. The automatas used in Syncro are in ``/phases`` directory and its answers are in ``/solutions`` directory.
 
+In these files, ``Q``, ``T`` and ``B`` means, respectively, Square, Triangle and Circle. The numbers in ``/phases`` means the index of each slot, which was arbitraly chosen. It's not difficult to understand how the edges are represented.
+
 ## Creating your own phase
 
-The script ``run_template.py`` creates a json file that contains the basic structure which SyncroSolver class consider valid.
+The script ``run_template.py`` creates a json file that contains the basic structure which SyncroSolver class consider as valid.
 
 Example in command line:
 
