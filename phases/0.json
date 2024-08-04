@@ -1,0 +1,10 @@
+{
+  "name": "0",
+  "slot_capacity": 2,
+  "max_plays": 1,
+  "automaton": {
+    "0": {
+      "Q": "1"
+    }
+  }
+}
